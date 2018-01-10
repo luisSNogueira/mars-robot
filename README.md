@@ -5,7 +5,7 @@ An app to simulate the movement off a robot on Mars
 mvn clean install
 
 # how to Run
-java -jar target/mars-robot.jar
+java -jar mars-robot-0.1.0.jar
 
 # How to use
 The Robot uses the following commands(Upper case only): 
